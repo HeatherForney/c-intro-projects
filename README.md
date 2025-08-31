@@ -31,9 +31,6 @@ Written and tested on Linux. Organized to demonstrate progression from simple sy
   Final project split across multiple source files (`main.c`, `createList.c`, `releaseMemory.c`, `r9.c`) with header file (`prog9.h`).  
   Demonstrates modular design, header usage, and separate compilation.
 
-- **my_file.c**  
-  Small standalone exercise (to be updated once reviewed).
-
 ## Skills Practiced
 - Variables, operators, and formatted output
 - Conditionals and loops
